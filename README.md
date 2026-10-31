@@ -1,4 +1,4 @@
-# Aws-devops
+# AWS Cloud & DevOps Engineer | Linux | AWS | Docker | Jenkins | Terraform | Kubernetes | CI/CD
 
 aws-devops-
 ├── README.md
