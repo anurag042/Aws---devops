@@ -49,13 +49,13 @@ CloudWatch · AWS Cost Management
 Automated AWS application deployment
 
 Developer pushes code to GitHub
-            ^
+            
 Jenkins pipeline runs tests and build
-            ^
+            
 Docker builds application image
-            ^
+            
 Amazon ECR stores image
-            ^
+            
 Amazon ECS deploys application
-            ^
+            
 CloudWatch monitors application
